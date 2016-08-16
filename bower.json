@@ -26,7 +26,7 @@
   ],
   "dependencies": {
     "angular": ">=1.3.0",
-    "sweetalert": "git@github.com:kps3/sweetalert.git#f8828d2369851db234855bcff5b9ee8dbae28c58"
+    "sweetalert": "https://github.com/kps3/sweetalert.git#f8828d2369851db234855bcff5b9ee8dbae28c58"
   },
   "devDependencies": {},
   "resolutions": {
